@@ -1,0 +1,41 @@
+_repo: Hendrik-Consciencezijn-persoon-en-zijn-werk_29235
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Du Jardin, Edward
+    aliases:
+    - Dujardin, Edward
+    - Dujardin, Eduard
+    - Jardin, Edward du
+    - Dujardin, Edouard
+    birthdate: 1817
+    deathdate: &id001 1889
+    gutenberg_agent_id: '33775'
+    url: http://www.gutenberg.org/2009/agents/33775
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bock, Eugène de
+    aliases:
+    - Bock, Eugene de
+    - Bock, Eugeen de
+    birthdate: *id001
+    gutenberg_agent_id: '33774'
+    url: http://www.gutenberg.org/2009/agents/33774
+description: ''
+gutenberg_issued: '2009-06-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29235'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, Flemish -- 19th century -- Biography'
+- !lcc 'PT'
+- !lcsh 'Conscience, Hendrik, 1812-1883'
+title: Hendrik Conscience, zijn persoon en zijn werk
+url: http://www.gutenberg.org/ebooks/29235
