@@ -9,7 +9,7 @@ contributor:
     - Jardin, Edward du
     - Dujardin, Edouard
     birthdate: 1817
-    deathdate: &id001 1889
+    deathdate: 1889
     gutenberg_agent_id: '33775'
     url: http://www.gutenberg.org/2009/agents/33775
 covers:
@@ -21,10 +21,12 @@ creator:
     aliases:
     - Bock, Eugene de
     - Bock, Eugeen de
-    birthdate: *id001
+    birthdate: 1889
     gutenberg_agent_id: '33774'
     url: http://www.gutenberg.org/2009/agents/33774
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29235#Hendrik-Consciencezijn-persoon-en-zijn-werk
 gutenberg_issued: '2009-06-25'
 gutenberg_type: Text
 identifiers:
